@@ -13,12 +13,9 @@
 ```
 git clone https://github.com/prashanth-sams/export-pull-requests
 cd export-pull-requests
-```
-- Edit `main.py` file and insert your web url
-```
-driver.get("")
-```
-- Run cmd
-```
+
 python main.py
 ```
+- Enter the URL and press `enter` key
+![alt text](https://i.imgur.com/Umnw8Lw.png)
+
