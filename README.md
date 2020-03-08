@@ -1,5 +1,5 @@
 # Export Github Pull Requests
-> A simple Python utility to github pull requests
+> A simple Python utility to export github pull requests
 
 ## Pre-requisites
 - Install the python libraries
@@ -12,7 +12,7 @@
 ## Runner
 ```
 git clone https://github.com/prashanth-sams/export-pull-requests
-cd export-pull-requests
+cd export-github-prs
 
 python main.py
 ```
